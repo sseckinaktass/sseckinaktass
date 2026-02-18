@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seçkin</h1>
-<h3 align="center">Software Engineer | AI & Computer Vision</h3>
+<h3 align="center">Software Engineer | AI & Computer Vision Enthusiast</h3>
 
 - 🔭 I’m currently working on [Saymation](https://www.linkedin.com/company/saymation)
 
